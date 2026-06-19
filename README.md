@@ -29,7 +29,7 @@ Learn how to install and run Meta's Llama 4 AI model locally on macOS using Lekh
 - [Practical Use Cases](docs/use-cases.md) 
 - ## Related Resource
 - Learn more:
-  https://lekhai.app/blog/how-to-run-llama-4-locally-on-mac/
+  [https://differ.blog/p/how-to-run-llama-4-locally-on-mac-step-by-step-guide-f57660]
 - ## Official Website
   
 - [https://lekhai.app]
