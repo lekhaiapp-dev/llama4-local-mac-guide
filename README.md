@@ -4,6 +4,7 @@ Step-by-step guide to running Llama 4 locally on Mac using Lekhai App. Learn ins
 # How to Run Llama 4 Locally on Mac Using Lekhai App 
 Learn how to install and run Meta's Llama 4 AI model locally on macOS using Lekhai App. 
 ## Table of Contents 
+
 - System Requirements
 - Install Lekhai App
 - Download Llama 4 
@@ -11,6 +12,7 @@ Learn how to install and run Meta's Llama 4 AI model locally on macOS using Lekh
 - Optimization Tips 
 - Troubleshooting 
 - Use Cases
+  
 - ## Full Guide
 - ### 1. System Requirements
 - Read detailed requirements:
@@ -24,10 +26,12 @@ Learn how to install and run Meta's Llama 4 AI model locally on macOS using Lekh
 - ### 5. Troubleshooting
 - [Troubleshooting Guide](docs/troubleshooting.md)
 - ### 6. Use Cases
-- [Practical Use Cases](docs/use-cases.md) ---
+- [Practical Use Cases](docs/use-cases.md) 
 - ## Related Resource
 - Learn more:
   https://lekhai.app/blog/how-to-run-llama-4-locally-on-mac/
 - ## Official Website
-- https://lekhai.app ---
+  
+- [https://lekhai.app]
+  
 - ## License MIT
